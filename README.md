@@ -13,7 +13,7 @@ This repository contains the MATLAB scripts used to simulate DC kinetics and to 
 - obj_Model2.m: weighted least square cost function for fitting of Model 2
 - obj_Model3.m: weighted least square cost function for fitting of Model 3
 - photoconverted_Model1.m: function to calculate the fraction of photoconverted cells according to Model 1 (implementation of equation 13)
-- photoconverted_Model1.m: function to calculate the fraction of photoconverted cells according to Model 2 (implementation of equation 58)
-- photoconverted_Model1.m: function to calculate the fraction of photoconverted cells according to Model 3 (implementation of equation 77)
+- photoconverted_Model2.m: function to calculate the fraction of photoconverted cells according to Model 2 (implementation of equation 58)
+- photoconverted_Model3.m: function to calculate the fraction of photoconverted cells according to Model 3 (implementation of equation 77)
 ## Scripts containing data
 - dataPC.m: data used for fitting
